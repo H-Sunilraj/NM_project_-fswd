@@ -20,3 +20,12 @@ python manage.py runserver
 ```
 
 ![screen](https://github.com/WinterOdin/car-rental-with-Django/blob/master/screenshot/index.png)
+Application project.
+Project Implemented by:
+Name:H.sunilraj
+ID:au813121205027
+College Name:8131,pavendar Bharathidasan
+college of Engineering and technology
+Login Credentials:
+username:sunilraj.H
+password:sunil.sj.45
